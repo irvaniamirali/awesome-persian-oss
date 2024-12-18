@@ -6,7 +6,7 @@
 ## جدول موضوعات به ترتیب حروف الفبا
 ### الف-ی
 
-- [توزیع](https://github.com/behdanisohrab/awesome-persian-oss/edit/main/README.md#%D8%AA%D9%88%D8%B2%DB%8C%D8%B9%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3)
+- [توزیع](https://github.com/behdanisohrab/awesome-persian-oss/tree/main?tab=readme-ov-file#%D8%AA%D9%88%D8%B2%DB%8C%D8%B9%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3)
 
 
 --------
