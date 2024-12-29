@@ -149,6 +149,11 @@
       <td style="text-align: center; padding: 8px;">رابط گرافیکی برای مدیریت بارگیری با استفاده از aria2</td>
       <td style="text-align: center; padding: 8px;"><a href="https://github.com/persepolisdm/persepolis">persepolis</a></td>
     </tr>
+        <tr>
+      <td style="text-align: center; padding: 8px;">AB Download Manager</td>
+      <td style="text-align: center; padding: 8px;">دانلود منیجر آزاد برای دسکتاپ</td>
+      <td style="text-align: center; padding: 8px;"><a href="https://abdownloadmanager.com">ABDownloadManager</a></td>
+    </tr>
   </tbody>
 </table>
 
