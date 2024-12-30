@@ -17,7 +17,6 @@
     - [قلم](#قلم)
     - [مدیریت بارگیری](#مدیریت-بارگیری)
     - [فیلترشکن](#فیلترشکن)
-    - [ابزارهای خط فرمان](#ابزارهای-خط-فرمان)
 
 
 --------
@@ -47,6 +46,11 @@
       <td style="text-align: center; padding: 8px;">پُست تِرَکر</td>
       <td style="text-align: center; padding: 8px;">کتابخانه و ابزار خط فرمان برای رهگیری وضعیت مرسولات پستی (از شرکت ملی پست ایران)</td>
       <td style="text-align: center; padding: 8px;"><a href="github.com/amirAref/post-tracker">post-tracker</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px;">تسکی</td>
+      <td style="text-align: center; padding: 8px;">ابزاری برای مدیریت تسک ها و کارها</td>
+      <td style="text-align: center; padding: 8px;"><a href="https://github.com/shahriaarrr/tasky">Tasky</a></td>
     </tr>
 </table>
 
@@ -160,26 +164,7 @@
   </tbody>
 </table>
 
---------
-### ابزارهای خط فرمان
-<table style="width:100%; table-layout: fixed; border: 1px solid #ddd; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="width: 33%; text-align: center; padding: 8px;">نام پروژه</th>
-      <th style="width: 33%; text-align: center; padding: 8px;">توضیحات</th>
-      <th style="width: 34%; text-align: center; padding: 8px;">تارنما</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center; padding: 8px;">تسکی</td>
-      <td style="text-align: center; padding: 8px;">ابزاری برای مدیریت تسک ها و کارها</td>
-      <td style="text-align: center; padding: 8px;"><a href="https://github.com/shahriaarrr/tasky">Tasky</a></td>
-    </tr>
-  </tbody>
-</table>
-
---------
+-----------
 
 ### فیلترشکن
 
