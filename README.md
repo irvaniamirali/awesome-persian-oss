@@ -18,6 +18,8 @@
     - [قلم](#قلم)
     - [مدیریت بارگیری](#مدیریت-بارگیری)
     - [فیلترشکن](#فیلترشکن)
+    - [پرداخت و فین تک](#پرداخت-و-فین-تک)
+
 
 ---
 
@@ -304,6 +306,32 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+### پرداخت و فین تک
+
+<table style="width:100%; table-layout: fixed; border: 1px solid #ddd; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="width: 33%; text-align: center; padding: 8px;">نام پروژه</th>
+      <th style="width: 33%; text-align: center; padding: 8px;">توضیحات</th>
+      <th style="width: 34%; text-align: center; padding: 8px;">تارنما</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; padding: 8px;">پیمان</td>
+      <td style="text-align: center; padding: 8px;">
+        کتابخانه‌ای ماژولار برای اتصال به درگاه‌های پرداخت ایرانی (مانند زرین‌پال، زیبال و ...)، با معماری افزونه‌ای و پشتیبانی از Async.
+      </td>
+      <td style="text-align: center; padding: 8px;">
+        <a target="_blank" href="https://github.com/irvaniamirali/payman">payman</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
